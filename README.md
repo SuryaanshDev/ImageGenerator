@@ -36,7 +36,6 @@ Users can enter text prompts to generate high-quality AI images, save them, and 
 | Frontend     | React, Vite, Tailwind CSS     |
 | Backend      | Node.js, Express.js           |
 | Database     | MongoDB, Mongoose             |
-| AI Provider  | OpenAI / Stability / Replicate|
 
 ---
 
