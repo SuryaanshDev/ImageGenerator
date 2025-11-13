@@ -117,28 +117,6 @@ Generate an image from a prompt.
 
 ---
 
-## 📦 Build for Production
-
-### Frontend
-
-    cd client
-    npm run build
-
-### Backend (optional)
-
-    cd server
-    pm2 start index.js
-
----
-
-## 🌐 Deployment
-
-- **Frontend:** Vercel / Netlify  
-- **Backend:** Render / Railway / VPS  
-- **Database:** MongoDB Atlas  
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome.  
