@@ -57,17 +57,7 @@ Users can enter text prompts to generate high-quality AI images, save them, and 
     ├── package.json
     └── README.md
 
----
 
-## ⚙️ Environment Variables
-
-Inside `server/.env`, add:
-
-    OPENAI_API_KEY=your_api_key_here
-    MONGO_URI=your_mongodb_connection_string
-    PORT=5000
-
----
 
 ## ▶️ Running the Project Locally
 
